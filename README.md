@@ -1,1 +1,3 @@
-# -App-
+# 政务类App应用商店数据分析
+
+使用iTunes API获取郑好办App的评价数据，使用Python结合pandas和numpy分析库对评分分布，评价趋势及评论关键词等进行分析并使用pychart库进行可视化。横向对比同类政务App如浙里办和i深圳的App数据，分析提升App评分的策略。
